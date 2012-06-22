@@ -1,0 +1,5 @@
+This is an implementation of many base Unix tools in Go, with focus on
+simplicity rather than legacy compatibility. Some inspiration is taken
+from Plan 9's tools.
+
+Written by Johannes Langøy, 2011, and released into the public domain.
